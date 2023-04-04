@@ -1,2 +1,2 @@
 # CS109
-assignments for CS109
+Assignments for CS109
