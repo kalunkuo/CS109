@@ -1,0 +1,25 @@
+name: cs109a
+
+channels:
+- conda-forge
+
+dependencies:
+- beautifulsoup4
+- jupyterlab
+- matplotlib
+- numpy
+- pandas
+- papermill
+- pillow
+- pip
+- python>=3.9
+- requests
+- retrolab
+- scipy
+- scikit-learn
+- seaborn
+- statsmodels
+- voila
+- pip:
+  - nbopen
+  - otter-grader~=4.0
